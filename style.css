@@ -305,8 +305,9 @@ video{
     flex-grow: 1;
     list-style: none;
 }
-.container5 p{
+.cola p{
     font-size: 40px;
     font-family: 'avenirlt_roman', sans-serif;
     font-weight: bold;
+
 }
